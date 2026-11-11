@@ -1,0 +1,20 @@
+gitignore
+# Maven build output (recreated by "mvn clean install")
+target/
+
+# IntelliJ IDEA settings (personal to my machine)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Other editors
+.vscode/
+.classpath
+.project
+.settings/
+
+# Operating system junk
+.DS_Store
+Thumbs.db
